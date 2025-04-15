@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+Pillow
+psycopg2
+firebase-admin
+matplotlib
+gunicorn
